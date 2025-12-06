@@ -14,8 +14,8 @@ The program demonstrates how arrays work and how elements shift during insertion
 ## How to Run
 1. Make sure GCC is installed.  
 2. Open terminal in the project folder.  
-3. Compile the code.
-4. Run the program.
+3. Compile the code -> gcc array.c -o array.exe
+4. Run the program -> ./array.exe
 5. Follow the menu to perform operations.
 
 ## Notes
